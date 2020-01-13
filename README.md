@@ -11,8 +11,8 @@ CodeIgniterのファイルを設定する。
 - phpMyAdmin5
 
 ## 動作環境
-- Docker for Windows 2.1.0.5
-- python 3.5.1
+- Docker Desktop for Windows 2.1.0.5 (https://docs.docker.com/docker-for-windows/install/)
+- python 3.5.1 (https://www.python.jp/install/windows/index.html)
 
 ## 使い方
 
